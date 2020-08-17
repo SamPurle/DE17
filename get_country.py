@@ -1,1 +1,2 @@
-print('UK')
+countries = ['UK', 'France']
+print(countries)
